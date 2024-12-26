@@ -1,0 +1,5 @@
+train: C:\Users\serka\Desktop\deneme\data1\images\train
+val: C:\Users\serka\Desktop\deneme\data1\images\val
+test: C:\Users\serka\Desktop\deneme\data1\images\test
+nc: 1  # Sınıf sayısı (örneğin, yalnızca plaka varsa 1)
+names: ['plaka']  # Sınıf isimleri
