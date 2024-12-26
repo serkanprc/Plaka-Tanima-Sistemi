@@ -39,4 +39,7 @@ SONUÇLAR:
 
 ![image](https://github.com/user-attachments/assets/07a28bf6-6961-4bae-a41a-7f857af94a3f)
 
+![sonuc1](https://github.com/user-attachments/assets/ad1af8ce-94e1-4448-8ff9-97acbecb3f36)
+
+
 
